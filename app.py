@@ -8,8 +8,8 @@ scaler = pickle.load(open('scaler.pkl', 'rb'))
 st.set_page_config(page_title="Insurance Premium Predictor")
 
 st.title("Insurance Premium Predictor")
-st.write("NIM: 2018230153")
-st.write("Nama: Rino Ristanta Surbakti")
+st.write("NIM: 2019230099")
+st.write("Nama: Muhammad Fahmi")
 
 st.subheader("Enter Customer Information")
 
